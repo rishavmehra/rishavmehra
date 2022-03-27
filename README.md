@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmehra&layout=compact)](https://github.com/rishavmehra)
 
+
+[![Rishav's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishavmehra)](https://github.com/rishavmehra/github-readme-activity-graph)
+
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/4) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
