@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast)
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BushraNazish&theme=highcontrast" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmehra&langs_count=8)](https://github.com/rishavmehra)
 
 ### :zap: Recent Activity
