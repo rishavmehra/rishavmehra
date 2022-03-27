@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast)
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BushraNazish&theme=highcontrast" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmehra&langs_count=8)](https://github.com/rishavmehra)
+<p align="center">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavmehra&theme=highcontrast" />
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmehra&layout=compact)](https://github.com/rishavmehra)
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
