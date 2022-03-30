@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/4) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
-2. 💪 Opened PR [#4](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/4) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
-3. 🎉 Merged PR [#3](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/3) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
-4. 💪 Opened PR [#3](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/3) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
-5. 💪 Opened PR [#2](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/2) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
+1. 🗣 Commented on [#1](https://github.com/kubesimplify/tweets/issues/1) in [kubesimplify/tweets](https://github.com/kubesimplify/tweets)
+2. 🎉 Merged PR [#4](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/4) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
+3. 💪 Opened PR [#4](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/4) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
+4. 🎉 Merged PR [#3](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/3) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
+5. 💪 Opened PR [#3](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/3) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
 <!--END_SECTION:activity-->
