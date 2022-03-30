@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/kubesimplify/tweets/pull/7) in [kubesimplify/tweets](https://github.com/kubesimplify/tweets)
-2. 🎉 Merged PR [#1](https://github.com/rishavmehra/tweets/pull/1) in [rishavmehra/tweets](https://github.com/rishavmehra/tweets)
-3. 💪 Opened PR [#1](https://github.com/rishavmehra/tweets/pull/1) in [rishavmehra/tweets](https://github.com/rishavmehra/tweets)
-4. 🗣 Commented on [#1](https://github.com/kubesimplify/tweets/issues/1) in [kubesimplify/tweets](https://github.com/kubesimplify/tweets)
-5. 🎉 Merged PR [#4](https://github.com/rishavmehra/GA-NodeJS-CICD/pull/4) in [rishavmehra/GA-NodeJS-CICD](https://github.com/rishavmehra/GA-NodeJS-CICD)
+1. ❌ Closed PR [#7](https://github.com/kubesimplify/tweets/pull/7) in [kubesimplify/tweets](https://github.com/kubesimplify/tweets)
+2. 🗣 Commented on [#7](https://github.com/kubesimplify/tweets/issues/7) in [kubesimplify/tweets](https://github.com/kubesimplify/tweets)
+3. 💪 Opened PR [#7](https://github.com/kubesimplify/tweets/pull/7) in [kubesimplify/tweets](https://github.com/kubesimplify/tweets)
+4. 🎉 Merged PR [#1](https://github.com/rishavmehra/tweets/pull/1) in [rishavmehra/tweets](https://github.com/rishavmehra/tweets)
+5. 💪 Opened PR [#1](https://github.com/rishavmehra/tweets/pull/1) in [rishavmehra/tweets](https://github.com/rishavmehra/tweets)
 <!--END_SECTION:activity-->
