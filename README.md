@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Heey! 
 
 <!--
 **rishavmehra/rishavmehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavmehra&theme=highcontrast" />
