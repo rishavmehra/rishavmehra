@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning DevOps and Cloud
 - 👯 I’m looking to collaborate on OpenSource Projects 
-- 📫 How to reach me: rishavmehra61@gamil.com
+- 📫 How to reach me: rishavmehra61@gmail.com
 - 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast" />
