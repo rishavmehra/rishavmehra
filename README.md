@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=37&lines=+Heey!+Welcome+to+Rishav+Mehra's+GitHub+Profile...)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=23&height=60&lines=+Heey!+Welcome+to+Rishav+Mehra's+GitHub+Profile...)](https://git.io/typing-svg)
 
 <!--
 **rishavmehra/rishavmehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
