@@ -1,4 +1,4 @@
-### 👋 Heey! 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=37&lines=+Heey!+Welcome+to+Rishav+Mehra's+GitHub+Profile...)](https://git.io/typing-svg)
 
 <!--
 **rishavmehra/rishavmehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate 
+- 🌱 I’m currently learning DevOps and Cloud
+- 👯 I’m looking to collaborate on OpenSource Projects 
+- 📫 How to reach me: rishavmehra61@gamil.com
+- 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavmehra&theme=highcontrast" />
