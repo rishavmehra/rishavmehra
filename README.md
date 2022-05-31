@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on OpenSource Projects 
 - 📫 How to reach me: rishavmehra61@gmail.com
 - 😄 Pronouns: He/Him
-<p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavmehra&theme=highcontrast" />
-</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmehra&layout=compact)](https://github.com/rishavmehra)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishavmehra&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="left">
+   <img width="37%" src="https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast" />
+</p>
 [![Rishav's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishavmehra)](https://github.com/rishavmehra/github-readme-activity-graph)
 
 
