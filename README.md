@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmehra&layout=compact)](https://github.com/rishavmehra)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishavmehra&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<p align="left">
-   <img width="37%" src="https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=highcontrast" />
-</p>
-[![Rishav's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishavmehra)](https://github.com/rishavmehra/github-readme-activity-graph)
+## Current Stats
 
+|   ![rishavmehra's's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishavmehra&theme=rogue) |
+| :---: |
+
+| ![rishavmehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavmehra&show_icons=true&theme=city_lights) | ![rishavmehra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishavmehra&theme=city-lights) |
+| :---: | :---: |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmehra&theme=city_lights) |
+| :---: |
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
