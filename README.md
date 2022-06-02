@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+
 ## Current Stats
 
 |   ![rishavmehra's's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishavmehra&theme=rogue) |
