@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5819](https://github.com/education/GitHubGraduation-2022/pull/5819) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-2. ❌ Closed PR [#320](https://github.com/robusta-dev/robusta/pull/320) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-3. 💪 Opened PR [#320](https://github.com/robusta-dev/robusta/pull/320) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 💪 Opened PR [#319](https://github.com/robusta-dev/robusta/pull/319) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 💪 Opened PR [#25](https://github.com/d4rckh/vaf/pull/25) in [d4rckh/vaf](https://github.com/d4rckh/vaf)
+1. 🎉 Merged PR [#1](https://github.com/rishavmehra/rishavmehra/pull/1) in [rishavmehra/rishavmehra](https://github.com/rishavmehra/rishavmehra)
+2. 💪 Opened PR [#5819](https://github.com/education/GitHubGraduation-2022/pull/5819) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+3. ❌ Closed PR [#320](https://github.com/robusta-dev/robusta/pull/320) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
+4. 💪 Opened PR [#320](https://github.com/robusta-dev/robusta/pull/320) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
+5. 💪 Opened PR [#319](https://github.com/robusta-dev/robusta/pull/319) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
