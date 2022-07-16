@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps and Cloud
 - 👯 I’m looking to collaborate on OpenSource Projects 
 - 📫 How to reach me: rishavmehra61@gmail.com
+- 🚀 Most active in Twitter [Rishavmehraa](https://twitter.com/Rishavmehraa)
 - 😄 Pronouns: He/Him
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
