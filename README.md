@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/mingchen/docker-android-build-box/pull/92) in [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box)
-2. 🎉 Merged PR [#1](https://github.com/rishavmehra/rishavmehra/pull/1) in [rishavmehra/rishavmehra](https://github.com/rishavmehra/rishavmehra)
-3. 💪 Opened PR [#5819](https://github.com/education/GitHubGraduation-2022/pull/5819) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-4. ❌ Closed PR [#320](https://github.com/robusta-dev/robusta/pull/320) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 💪 Opened PR [#320](https://github.com/robusta-dev/robusta/pull/320) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
+1. 🗣 Commented on [#92](https://github.com/mingchen/docker-android-build-box/issues/92) in [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box)
+2. 💪 Opened PR [#92](https://github.com/mingchen/docker-android-build-box/pull/92) in [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box)
+3. 🎉 Merged PR [#1](https://github.com/rishavmehra/rishavmehra/pull/1) in [rishavmehra/rishavmehra](https://github.com/rishavmehra/rishavmehra)
+4. 💪 Opened PR [#5819](https://github.com/education/GitHubGraduation-2022/pull/5819) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+5. ❌ Closed PR [#320](https://github.com/robusta-dev/robusta/pull/320) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
