@@ -9,8 +9,8 @@ Shell: zsh 5.9
 Education: Computer Science Student.
 Cloud: AWS, GCP, AZURE
 Blockchain: Solana, Ethereum
-Frameworks: Anchor, Ethers.js, web3.js, Next.js, ReactJS, TailwindCSS
-Languages: Go, JS, TS
+Frameworks: Anchor, web3.js, Ethers.js,  Next.js, ReactJS, 
+Languages: TS, Rust, Go, JS
 Databases: MongoDB, PostgreSQL
 -------------------------
 ```
